@@ -1,14 +1,13 @@
-<!-- Header with Typing SVG (Verified Working) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+VINOTHKANNA+J+R;Full+Stack+Developer;Python+%26+Java+Expert;React+%26+Django+Specialist;Open+to+Onsite+%7C+Hybrid+%7C+Remote" alt="Typing SVG" />
-</h1>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm VINOTHKANNA J R</h1>
 
-<!-- Badges Row - All Verified -->
+<h3 align="center">Full Stack Developer | Python & Java Expert | React & Django Specialist</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Namakkal%2C%20TN-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Onsite%20%7C%20Hybrid%20%7C%20Remote-00A86B?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -28,169 +27,130 @@
 
 ---
 
-<!-- About Me Section -->
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 <b>Computer Science Graduate</b> – Kongunadu College of Engineering and Technology (CGPA: 7.9/10)</li>
-        <li>💼 <b>Software Developer Intern</b> @ Wattstrons – Building scalable UIs & RESTful APIs</li>
-        <li>🔥 <b>Passionate</b> about crafting clean, efficient web and mobile solutions</li>
-        <li>🧠 <b>Exploring</b> Ethical Hacking | ML & AI | System Design</li>
-        <li>⚡ <b>Fun fact:</b> I turn coffee into code and bugs into features!</li>
-        <li>📫 <b>Email:</b> vinothkanna122004@gmail.com</li>
-        <li>🌐 <b>GitHub:</b> <a href="https://github.com/CodeByVinoth">github.com/CodeByVinoth</a></li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CodeByVinoth&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-    </td>
-   </tr>
-</table>
+- 🎓 **Computer Science Graduate** – Kongunadu College of Engineering and Technology (CGPA: 7.9/10)
+- 💼 **Software Developer Intern** @ Wattstrons – Building scalable UIs & RESTful APIs
+- 🔥 Passionate about crafting clean, efficient web and mobile solutions
+- 🧠 Exploring Ethical Hacking | ML & AI | System Design
+- ⚡ Fun fact: I turn coffee into code and bugs into features!
+- 📫 **Email:** vinothkanna122004@gmail.com
+- 🌐 **GitHub:** [github.com/CodeByVinoth](https://github.com/CodeByVinoth)
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+## 📊 GitHub Stats
 
-<h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByVinoth&show_icons=true&theme=dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=CodeByVinoth&theme=dark&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="48%" />
 </p>
 
-<h3 align="center">⚙️ Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,tailwind,spring,flutter" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByVinoth&layout=compact&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="48%" />
 </p>
 
-<h3 align="center">🗄️ Databases & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma,vscode" />
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center">📚 Core Concepts</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/MVC-Model%20View%20Controller-6DB33F?style=flat-square" />
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/MVC-Architecture-6DB33F?style=flat-square" />
   <img src="https://img.shields.io/badge/Agile-Scrum-2496ED?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST%20API-Integration-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-FFB800?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-ML-FF6F61?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-CNN-9C27B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST-API-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsive-Design-FFB800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine-Learning-FF6F61?style=flat-square" />
 </p>
 
 ---
 
-<!-- Work Experience -->
 ## 💼 Professional Experience
 
-<div>
-  <h3>Wattstrons - Software Developer Intern</h3>
-  <p><b>Duration:</b> Aug 2025 – Mar 2026 &nbsp;|&nbsp; <b>Tech Stack:</b> React, Tailwind CSS, RESTful APIs</p>
-  <ul>
-    <li>✅ Developed <b>15+ reusable React UI components</b> with Tailwind CSS animations → improved frontend consistency & UX</li>
-    <li>✅ Integrated <b>5+ RESTful backend APIs</b> → seamless client-server communication, reduced data fetch errors</li>
-    <li>✅ Designed responsive layouts & collaborated in <b>Agile sprints</b> → consistently delivered tasks on time</li>
-  </ul>
-</div>
+### Software Developer Intern @ Wattstrons
+**Aug 2025 – Mar 2026** | *React, Tailwind CSS, RESTful APIs*
+
+- ✅ Developed **15+ reusable React UI components** with Tailwind CSS animations → improved frontend consistency & UX
+- ✅ Integrated **5+ RESTful backend APIs** → seamless client-server communication, reduced data fetch errors
+- ✅ Designed responsive layouts & collaborated in **Agile sprints** → consistently delivered tasks on time
 
 ---
 
-<!-- Featured Projects -->
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">🩸 Smart Leukemia Detection</h3>
-      <p align="center"><b>Python | MobileNetV2 | CNN | Streamlit</b></p>
-      <p>Trained transfer learning model to classify blood cell images & predict leukemia stages with high accuracy. Deployed real‑time Streamlit web interface for instant AI predictions.</p>
-      <p align="center">
-        <a href="https://github.com/CodeByVinoth/smart-leukemia-detection">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🏠 Student Housing System</h3>
-      <p align="center"><b>Django | MySQL | Python</b></p>
-      <p>Full‑stack Django app automating room allocation & maintenance for 100+ student records. Role‑based access, optimized MySQL schema, Django auth framework.</p>
-      <p align="center">
-        <a href="https://github.com/CodeByVinoth/student-housing-system">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">💊 MediMate</h3>
-      <p align="center"><b>Flutter | SQLite</b></p>
-      <p>Cross‑platform Android app for medication scheduling, dose alerts & appointment reminders. Material Design UI + offline SQLite persistence.</p>
-      <p align="center">
-        <a href="https://github.com/CodeByVinoth/medimate">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🩸 Smart Leukemia Detection System
+*Python, MobileNetV2 CNN, Streamlit*
+
+Trained MobileNetV2 transfer learning model to classify blood cell images and predict leukemia stages with high accuracy. Deployed real-time Streamlit web interface for instant AI-powered predictions.
+
+### 🏠 Student Housing Management System
+*Django, MySQL, Python*
+
+Built full-stack Django app automating room allocation and maintenance tracking for 100+ student records with role-based access control. Designed normalized MySQL schema and implemented Django auth framework.
+
+### 💊 MediMate - Medication Manager App
+*Flutter, SQLite*
+
+Developed cross-platform Android app for medication scheduling, dose alerts, and appointment reminders with Material Design UI. Integrated SQLite ensuring data persistence across sessions and devices.
 
 ---
 
-<!-- GitHub Analytics -->
-## 📊 GitHub Analytics
+## 🎓 Education
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByVinoth&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=CodeByVinoth&theme=dark&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=C9D1D9" width="45%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByVinoth&theme=github_dark" width="90%" />
-</div>
+- **B.E. Computer Science** – Kongunadu College of Engineering and Technology (2021–2025) | CGPA: 7.9/10
+- **HSC** – Sri Vinayaga Matriculation Hr. Sec. School (2020–2021) | 81.8%
+- **SSLC** – Sri Vinayaga Matriculation Hr. Sec. School (2018–2019) | 78.2%
 
 ---
 
-<!-- Education & Certifications -->
-## 🎓 Education & Certifications
+## 📜 Certifications
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Education</h3>
-      <ul>
-        <li><b>🎓 B.E. Computer Science</b><br/>Kongunadu College of Engineering and Technology (2021–2025)<br/>CGPA: 7.9/10</li>
-        <li><b>📖 HSC</b><br/>Sri Vinayaga Matriculation Hr. Sec. School (2020–2021)<br/>Percentage: 81.8%</li>
-        <li><b>📘 SSLC</b><br/>Sri Vinayaga Matriculation Hr. Sec. School (2018–2019)<br/>Percentage: 78.2%</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📜 Certifications</h3>
-      <ul>
-        <li>✅ <b>Full Stack Java Developer</b> – ExcelR</li>
-        <li>✅ <b>Django Development</b> – Udemy (2024)</li>
-        <li>✅ <b>Python Programming</b> – Certiport (2024)</li>
-        <li>✅ <b>Java Programming</b> – Wipro (2024)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Full Stack Java Developer – ExcelR
+- Django Development – Udemy (2024)
+- Python Programming – Certiport (2024)
+- Java Programming – Wipro (2024)
 
 ---
 
 ## 🌐 Languages & Interests
 
-<p align="center">
-  <img src="https://img.shields.io/badge/English-Proficient-2EA043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tamil-Native-CC342D?style=for-the-badge" />
-</p>
+**Languages:**
+- English (Proficient)
+- Tamil (Native)
 
-<p align="center">
-  <b>💡 Interests:</b> Full Stack Development • Mobile App Development • Ethical Hacking • ML & AI
-</p>
+**Interests:**
+- Full Stack Development
+- Mobile App Development
+- Ethical Hacking
+- ML & AI
 
 ---
 
@@ -198,13 +158,13 @@
 
 <p align="center">
   <a href="https://github.com/CodeByVinoth">
-    <img src="https://img.shields.io/badge/GitHub-CodeByVinoth-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-CodeByVinoth-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/vinothkanna-jr">
-    <img src="https://img.shields.io/badge/LinkedIn-vinothkanna--jr-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-vinothkanna--jr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vinothkanna122004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vinothkanna122004%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-vinothkanna122004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -216,6 +176,6 @@
 
 <p align="center">
   <b><i>"Code. Build. Innovate. Repeat."</i></b>
-  <br/><br/>
+  <br/>
   ⭐️ From <b>Vinothkanna J R</b> | <a href="https://github.com/CodeByVinoth">@CodeByVinoth</a>
 </p>
