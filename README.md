@@ -39,19 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByVinoth&show_icons=true&theme=dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=CodeByVinoth&theme=dark&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByVinoth&layout=compact&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="48%" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
