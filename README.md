@@ -1,12 +1,17 @@
-<!-- Header -->
+<!-- Animated profile header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=190&section=header&text=Vinothkanna%20J%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Colorful animated header banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm VINOTHKANNA J R</h1>
 
-<h3 align="center">Full Stack Developer | Python, Java & React Specialist</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%26+Java+Developer;Building+useful+web+and+mobile+apps;Always+learning+and+creating" alt="Animated text: Full Stack Developer, Python and Java Developer, building web and mobile apps, always learning and creating" />
+  </a>
+</p>
 
 <p align="center">
-  <img alt="Full Stack Developer" src="https://img.shields.io/badge/Full%20Stack-Developer-38BDF8?style=for-the-badge" />
-  <img alt="Python Expert" src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge" />
-  <img alt="Java Advanced" src="https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge" />
   <img alt="Open to onsite, hybrid, or remote" src="https://img.shields.io/badge/Open%20to-Onsite%20%7C%20Hybrid%20%7C%20Remote-00A86B?style=for-the-badge" />
 </p>
 
@@ -18,7 +23,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/vinothkanna-jr" aria-label="LinkedIn Profile">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/917010986536" aria-label="WhatsApp">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -159,10 +164,6 @@ Developed a cross-platform Android app for medication scheduling, dose alerts, a
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CodeByVinoth&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
----
-
 <p align="center">
-  <b><i>"Code. Build. Innovate. Repeat."</i></b>
-  <br />
-  ⭐️ From <b>Vinothkanna J R</b> | <a href="https://github.com/CodeByVinoth">@CodeByVinoth</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=110&section=footer" alt="Decorative animated wave footer" />
 </p>
