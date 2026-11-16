@@ -1,18 +1,18 @@
-<!-- Animated profile header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=190&section=header&text=Vinothkanna%20J%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Colorful animated header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0EA5E9,30:8B5CF6,100:0F172A&height=220&section=header&text=VINOTHKANNA%20JR&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=72&fontColor=ffffff&animation=twinkling" alt="Animated banner for Vinothkanna J R" />
 </p>
 
 <h1 align="center">Hi 👋, I'm VINOTHKANNA J R</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%26+Java+Developer;Building+useful+web+and+mobile+apps;Always+learning+and+creating" alt="Animated text: Full Stack Developer, Python and Java Developer, building web and mobile apps, always learning and creating" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%26+Java+Developer;React+%26+Django+Builder;AI%2C+ML+%26+System+Design+Explorer;I+turn+coffee+into+code" alt="Typing intro: Full Stack Developer, Python and Java Developer, React and Django Builder, AI, ML and System Design Explorer" />
   </a>
 </p>
 
 <p align="center">
   <img alt="Open to onsite, hybrid, or remote" src="https://img.shields.io/badge/Open%20to-Onsite%20%7C%20Hybrid%20%7C%20Remote-00A86B?style=for-the-badge" />
+  <img alt="Currently learning" src="https://img.shields.io/badge/Focus-AI%20%7C%20System%20Design-8B5CF6?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/vinothkanna-jr" aria-label="LinkedIn Profile">
-    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/917010986536" aria-label="WhatsApp">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -36,11 +36,23 @@
 
 - 🎓 **Computer Science Graduate** – Kongunadu College of Engineering and Technology (CGPA: 7.9/10)
 - 💼 **Software Developer Intern** @ Wattstrons – Building scalable UIs and RESTful APIs
-- 🔥 Passionate about crafting clean, efficient web and mobile solutions
-- 🧠 Exploring Ethical Hacking | ML & AI | System Design
+- 🔥 Passionate about designing clean, efficient, and user-friendly digital experiences
+- 🧠 Exploring **Ethical Hacking**, **Machine Learning**, **AI**, and **System Design**
 - ⚡ Fun fact: I turn coffee into code and bugs into features!
 - 📫 **Email:** vinothkanna122004@gmail.com
 - 🌐 **GitHub:** [github.com/CodeByVinoth](https://github.com/CodeByVinoth)
+
+---
+
+## ✨ Profile Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Spring%20Boot-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQLite-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-ML%20%7C%20CNN-FF6F61?style=for-the-badge" />
+</p>
 
 ---
 
@@ -85,14 +97,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByVinoth&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByVinoth&theme=radical&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+---
+
 ## 💼 Professional Experience
 
 ### Software Developer Intern @ Wattstrons
 **Aug 2025 – Mar 2026** | *React, Tailwind CSS, RESTful APIs*
 
 - ✅ Developed **15+ reusable React UI components** with Tailwind CSS animations to improve frontend consistency and UX
-- ✅ Integrated **5+ RESTful backend APIs** to enable seamless client-server communication and reduce data fetch issues
-- ✅ Designed responsive layouts and collaborated in **Agile sprints** to deliver tasks consistently on time
+- ✅ Integrated **5+ RESTful backend APIs** to enable smooth client-server communication and reduce data-fetch issues
+- ✅ Designed responsive layouts and collaborated in **Agile sprints** to deliver tasks on time
 
 ---
 
@@ -106,12 +127,12 @@ Trained a MobileNetV2 transfer learning model to classify blood cell images and 
 ### 🏠 Student Housing Management System
 *Django, MySQL, Python*
 
-Built a full-stack Django application to automate room allocation and maintenance tracking for 100+ student records with role-based access control. Designed a normalized MySQL schema and implemented Django authentication, admin workflows, and dashboard reporting.
+Built a full-stack Django application that automates room allocation and maintenance tracking for 100+ student records, with role-based access control and dashboard reporting.
 
 ### 💊 MediMate - Medication Manager App
 *Flutter, SQLite*
 
-Developed a cross-platform Android app for medication scheduling, dose alerts, and appointment reminders with Material Design UI. Integrated SQLite to ensure data persistence across sessions and device restarts.
+Developed a cross-platform Android app for medication scheduling, scheduled reminders, and appointment alerts with a polished Material Design UI.
 
 ---
 
@@ -166,4 +187,10 @@ Developed a cross-platform Android app for medication scheduling, dose alerts, a
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=110&section=footer" alt="Decorative animated wave footer" />
+</p>
+
+<p align="center">
+  <b><i>"Code. Build. Innovate. Repeat."</i></b>
+  <br />
+  ⭐️ From <b>Vinothkanna J R</b> | <a href="https://github.com/CodeByVinoth">@CodeByVinoth</a>
 </p>
