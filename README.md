@@ -1,27 +1,27 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm VINOTHKANNA J R</h1>
 
-<h3 align="center">Full Stack Developer | Python & Java Expert | React & Django Specialist</h3>
+<h3 align="center">Full Stack Developer | Python, Java & React Specialist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Onsite%20%7C%20Hybrid%20%7C%20Remote-00A86B?style=for-the-badge" />
+  <img alt="Full Stack Developer" src="https://img.shields.io/badge/Full%20Stack-Developer-38BDF8?style=for-the-badge" />
+  <img alt="Python Expert" src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge" />
+  <img alt="Java Advanced" src="https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge" />
+  <img alt="Open to onsite, hybrid, or remote" src="https://img.shields.io/badge/Open%20to-Onsite%20%7C%20Hybrid%20%7C%20Remote-00A86B?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="mailto:vinothkanna122004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:vinothkanna122004@gmail.com" aria-label="Email">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/CodeByVinoth">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/CodeByVinoth" aria-label="GitHub Profile">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/vinothkanna-jr">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/vinothkanna-jr" aria-label="LinkedIn Profile">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/917010986536">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/917010986536" aria-label="WhatsApp">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Science Graduate** – Kongunadu College of Engineering and Technology (CGPA: 7.9/10)
-- 💼 **Software Developer Intern** @ Wattstrons – Building scalable UIs & RESTful APIs
+- 💼 **Software Developer Intern** @ Wattstrons – Building scalable UIs and RESTful APIs
 - 🔥 Passionate about crafting clean, efficient web and mobile solutions
 - 🧠 Exploring Ethical Hacking | ML & AI | System Design
 - ⚡ Fun fact: I turn coffee into code and bugs into features!
@@ -43,39 +43,39 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ### Core Concepts
 <p>
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/MVC-Architecture-6DB33F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agile-Scrum-2496ED?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST-API-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Responsive-Design-FFB800?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine-Learning-FF6F61?style=flat-square" />
+  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/OOP-Object%20Oriented-007ACC?style=flat-square" />
+  <img alt="MVC Architecture" src="https://img.shields.io/badge/MVC-Architecture-6DB33F?style=flat-square" />
+  <img alt="Agile Scrum" src="https://img.shields.io/badge/Agile-Scrum-2496ED?style=flat-square" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST-API-8A2BE2?style=flat-square" />
+  <img alt="Responsive Design" src="https://img.shields.io/badge/Responsive-Design-FFB800?style=flat-square" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine-Learning-FF6F61?style=flat-square" />
 </p>
 
 ---
@@ -85,9 +85,9 @@
 ### Software Developer Intern @ Wattstrons
 **Aug 2025 – Mar 2026** | *React, Tailwind CSS, RESTful APIs*
 
-- ✅ Developed **15+ reusable React UI components** with Tailwind CSS animations → improved frontend consistency & UX
-- ✅ Integrated **5+ RESTful backend APIs** → seamless client-server communication, reduced data fetch errors
-- ✅ Designed responsive layouts & collaborated in **Agile sprints** → consistently delivered tasks on time
+- ✅ Developed **15+ reusable React UI components** with Tailwind CSS animations to improve frontend consistency and UX
+- ✅ Integrated **5+ RESTful backend APIs** to enable seamless client-server communication and reduce data fetch issues
+- ✅ Designed responsive layouts and collaborated in **Agile sprints** to deliver tasks consistently on time
 
 ---
 
@@ -96,17 +96,17 @@
 ### 🩸 Smart Leukemia Detection System
 *Python, MobileNetV2 CNN, Streamlit*
 
-Trained MobileNetV2 transfer learning model to classify blood cell images and predict leukemia stages with high accuracy. Deployed real-time Streamlit web interface for instant AI-powered predictions.
+Trained a MobileNetV2 transfer learning model to classify blood cell images and predict leukemia stages with high accuracy. Deployed a real-time Streamlit web interface for instant AI-powered prediction and early screening support.
 
 ### 🏠 Student Housing Management System
 *Django, MySQL, Python*
 
-Built full-stack Django app automating room allocation and maintenance tracking for 100+ student records with role-based access control. Designed normalized MySQL schema and implemented Django auth framework.
+Built a full-stack Django application to automate room allocation and maintenance tracking for 100+ student records with role-based access control. Designed a normalized MySQL schema and implemented Django authentication, admin workflows, and dashboard reporting.
 
 ### 💊 MediMate - Medication Manager App
 *Flutter, SQLite*
 
-Developed cross-platform Android app for medication scheduling, dose alerts, and appointment reminders with Material Design UI. Integrated SQLite ensuring data persistence across sessions and devices.
+Developed a cross-platform Android app for medication scheduling, dose alerts, and appointment reminders with Material Design UI. Integrated SQLite to ensure data persistence across sessions and device restarts.
 
 ---
 
@@ -144,25 +144,25 @@ Developed cross-platform Android app for medication scheduling, dose alerts, and
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/CodeByVinoth">
-    <img src="https://img.shields.io/badge/GitHub-CodeByVinoth-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/CodeByVinoth" aria-label="GitHub Profile">
+    <img alt="GitHub - CodeByVinoth" src="https://img.shields.io/badge/GitHub-CodeByVinoth-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/vinothkanna-jr">
-    <img src="https://img.shields.io/badge/LinkedIn-vinothkanna--jr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/vinothkanna-jr" aria-label="LinkedIn Profile">
+    <img alt="LinkedIn - vinothkanna-jr" src="https://img.shields.io/badge/LinkedIn-vinothkanna--jr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vinothkanna122004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vinothkanna122004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:vinothkanna122004@gmail.com" aria-label="Email">
+    <img alt="Email - vinothkanna122004@gmail.com" src="https://img.shields.io/badge/Email-vinothkanna122004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeByVinoth&label=Profile%20Views&color=38BDF8&style=flat" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CodeByVinoth&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
 ---
 
 <p align="center">
   <b><i>"Code. Build. Innovate. Repeat."</i></b>
-  <br/>
+  <br />
   ⭐️ From <b>Vinothkanna J R</b> | <a href="https://github.com/CodeByVinoth">@CodeByVinoth</a>
 </p>
